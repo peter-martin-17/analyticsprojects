@@ -1,6 +1,6 @@
 # analyticsprojects
 
-For both of the projects, I used sample data sourced from Kaggle.
+For both of the projects, I used sample data sourced from Kaggle. For these projects, I used tools including mySQL server, Python, pandas library, matplot library, sklearn library, numpy library, and jupyter notebooks.
 
 customer_churn
  - Created a logistic regression model using columns in the customer churn dataset to predict which customers churn.
